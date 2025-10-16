@@ -18,7 +18,6 @@ An interactive particle art installation created with Python and Pygame. Users c
 - VS Code (recommended) or any Python IDE
 
 - ## Video
-- 
 
 https://github.com/user-attachments/assets/015a93e9-55d5-404c-b758-bdd623c92e45
 
